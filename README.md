@@ -1,6 +1,8 @@
 # chromedriver-autoupdater
 Automatically download and install [chromedriver](https://chromedriver.chromium.org/) that supports the currently installed version of chrome. This installer supports Linux, MacOS and Windows operating systems.
 
+Forked from [chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller)
+
 ## Installation
 
 ```bash
